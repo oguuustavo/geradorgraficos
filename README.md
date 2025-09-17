@@ -1,6 +1,3 @@
-Aqui está o texto todo organizado em **Markdown**, pronto para você usar no GitHub:
-
-````markdown
 # COFIPEI - Controle Financeiro Pessoal Inteligente 💰📊
 
 ## 🌟 Sobre o Projeto
